@@ -1,0 +1,8 @@
+1：curl https://cli.nexus.xyz | sh
+2：source ~/.bashrc
+3：nexus-network --version
+4：nexus-network start --node-id  --max-threads 8
+
+
+
+
